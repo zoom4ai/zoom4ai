@@ -27,7 +27,7 @@
 [website]: https://www.zoom4ai.com/
 [devto]: https://dev.to/zoom4ai
 [instagram]: https://www.instagram.com/zoom4ai/
-[medium] : https://www.medium.com/zoom4ai/
+
  
 ---
 
